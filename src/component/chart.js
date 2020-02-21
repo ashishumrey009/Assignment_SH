@@ -106,7 +106,7 @@ class Chart extends Component{
       <section>
           <div class="container">
       <div class="row">
-        <div class="col-md-6 sm-6">
+        <div class="col-lg-6 col-md-12 ">
           <h2 className="text-left">Celebrate</h2>
         <div class="card shadow bg-white rounded" style={{width: '30rem'}}>
             <div class="card-body">
@@ -132,7 +132,7 @@ class Chart extends Component{
             </div>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-lg-6 col-md-12">
         <h2 className="text-left">Focus On</h2>
                 <div className="shadow bg-white rounded">
                 <Bar
