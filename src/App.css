@@ -23,11 +23,21 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.alginclear{
+  clear: both;
+}
 .App-link {
   color: #61dafb;
 }
-
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+.chartjs-size-monitor{
+  width: 50px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
